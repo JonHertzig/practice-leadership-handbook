@@ -14,7 +14,7 @@ This section will help you formulate key components of it in ways that will stan
 An over-arching ambition
 ========================
 
-Your description - the picture you paint - will need to include an over-arching ambition, that includes particular objectives, and an account of how you plan to reach them all.
+Your description --- the picture you paint --- will need to include an over-arching ambition, that includes particular objectives, and an account of how you plan to reach them all.
 
 What is your ultimate aim? Can you express it in a single sentence? 
 
@@ -40,7 +40,7 @@ Depending on your domain, you may be lucky, and never need to explain *why* your
 
 You're going to need to have some good answers ready. They need to answer the question *why* from multiple perspectives, and be answers that you believe in.
 
-`Workbook - your ambition <https://docs.google.com/document/d/18_OOHIZJ8SQASDjdrtgU9TzLSZDl0fa91eGfHQsODM4/edit>`_
+`Workbook -- your ambition <https://docs.google.com/document/d/18_OOHIZJ8SQASDjdrtgU9TzLSZDl0fa91eGfHQsODM4/edit>`_
 
 
 Particular objectives
@@ -50,9 +50,9 @@ From your ambition, clear objectives should follow. The objectives you define ar
 
 There are three areas for which you need to have clear statements of what you intend to achieve:
 
-* product: what we actually create - the tangible output of the practice
-* people: how people will be affected or even transformed by your work - in their professional skills, their understanding of the domain, their career paths and options
-* practice - the theory and execution of the craft
+* product: what we actually create --- the tangible output of the practice
+* people: how people will be affected or even transformed by your work --- in their professional skills, their understanding of the domain, their career paths and options
+* practice --- the theory and execution of the craft
 
 They all overlap. They are related aspects, not completely orthogonal dimensions, of your ambition. You might think of others, but these three need to be at the heart of your description.
 
@@ -78,14 +78,14 @@ They all overlap. They are related aspects, not completely orthogonal dimensions
         - documentation **standards and approaches** serve as a model for practice leadership in other disciplines
         - **our way of doing documentation** is held up as an exemplar of good practice and emulated
 
-In each case, the aim - to set a standard of excellence - is translated into statements, each of which we'll be able to ask: *is this true?* In each case, the statements suggest measurements, metrics or other objective conditions that we could identify in order to judge whether they have been met.
+In each case, the aim --- to set a standard of excellence --- is translated into statements, each of which we'll be able to ask: *is this true?* In each case, the statements suggest measurements, metrics or other objective conditions that we could identify in order to judge whether they have been met.
 
 It's not the place to go into the finer details though. We don't set out *how* each of these will be judged, nor are they set in a time-frame. But, questions about that should follow naturally from them, and you will need at different times to have clear answers.
 
-`Workbook - objectives <https://docs.google.com/document/d/18_OOHIZJ8SQASDjdrtgU9TzLSZDl0fa91eGfHQsODM4/edit#heading=h.oodlfpo3z4ym>`_
+`Workbook -- objectives <https://docs.google.com/document/d/18_OOHIZJ8SQASDjdrtgU9TzLSZDl0fa91eGfHQsODM4/edit#heading=h.oodlfpo3z4ym>`_
 
 
-Getting there - your strategy
+Getting there --- your strategy
 =============================
 
 **How are we going to get to where you're proposing to take us?** This is where your ability to think strategically is needed. 
@@ -96,11 +96,11 @@ What are the *different* components of this strategy? How do they fit together?
 
     Four pillars of excellence:
 
-    * **direction** - where we're going and how we know we're on the right track
-    * **discipline** - a shared attitude, a culture of caring about it
-    * **execution** - the right way of doing the things we do
-    * **tooling** - the equipment that we'll be replying on
+    * **direction** --- where we're going and how we know we're on the right track
+    * **discipline** --- a shared attitude, a culture of caring about it
+    * **execution** --- the right way of doing the things we do
+    * **tooling** --- the equipment that we'll be replying on.
 
 However you divide the strands of your strategy, they will represent lines where  you'll need to have good answers to questions about meeting your aims. 
 
-`Workbook - strategy <https://docs.google.com/document/d/18_OOHIZJ8SQASDjdrtgU9TzLSZDl0fa91eGfHQsODM4/edit#heading=h.vd88h49ye134>`_
+`Workbook -- strategy <https://docs.google.com/document/d/18_OOHIZJ8SQASDjdrtgU9TzLSZDl0fa91eGfHQsODM4/edit#heading=h.vd88h49ye134>`_
