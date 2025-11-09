@@ -48,7 +48,7 @@ if IsMyStParserUsed():
 if IsOpenGraphConfigured():
     extensions.append('sphinxext.opengraph')
 
-extensions.extend(custom_extensions)
+# extensions.extend(custom_extensions)
 extensions = DeduplicateExtensions(extensions)
 
 ### Configuration for extensions
