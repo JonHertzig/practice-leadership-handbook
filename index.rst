@@ -2,7 +2,7 @@
 Practice Leadership Handbook
 ======================================
 
-The concern of **practice leadership** is the posture and behaviour of the organisation as a whole, in some field of practice that cuts across products, projects and teams.
+The concern of **practice leadership** is the posture and behaviour of the organisation as a whole, in some field of practice that cuts across products, projects, and teams.
 
 Insofar as practice leadership is associated with a particular outcome, it addresses that outcome through attention to the practices that affect it, and the people who must engage in the practice.
 
@@ -16,9 +16,9 @@ At Canonical
     :class: floated
     :alt: Forward!
 
-Canonical has established a model of practice leadership in software as part of its wider ambitions for **engineering excellence**. The model needs to be systematic, pragmatic and adaptable - for example to domains beyond engineering. Above all, it needs to be effective. At the heart of that model is the person of the *practice lead* who is responsible for it.
+Canonical has established a model of practice leadership in software as part of its wider ambitions for **engineering excellence**. The model needs to be systematic, pragmatic, and adaptable --- for example to domains beyond engineering. Above all, it needs to be effective. At the heart of that model is the person of the *practice lead* who is responsible for it.
 
-The aim of this handbook is to help practice leads help Canonical towards its ambitions, by instituting and maintaining a way of doing things - a practice.
+The aim of this handbook is to help practice leads help Canonical towards its ambitions, by instituting and maintaining a way of doing things --- a practice.
 
 It will help practice leads set out their own picture of what their role is and what to do in it: part of the work of each practice lead is to define the practice, and therefore to define not just their own role too, but the idea of practice leadership itself.
 
@@ -52,7 +52,7 @@ Contents
 Your project's early days
 --------------------------
 
-You need to communicate your project and its vision, in such a way that other people want to be part of them. You need people's faith in *you*, as a leader and you need them to work with you.
+You need to communicate your project and its vision, in such a way that other people want to be part of them. You need people's faith in *you*, as a leader; and you need them to work with you.
 
 ..  toctree::
     :maxdepth: 1
