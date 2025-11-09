@@ -12,11 +12,11 @@ Substance
 
 The **substance** includes all those things you need behind your vision but might choose to keep out of its presentation: the evidence, the theoretical rigour, the reasoning, the battle-tested industrial experience. It also includes your own ability to put them all to work to meet your new challenge. 
 
-If you have them, you'll be believable, and if not, you won't. You don't really need to do anything with them - they'll show up in what you say and do, and especially when you're pressed hard and need to fall back on them. People are remarkably good at recognising them, and probing for a lack of them when they sense that someone pretends to have more substance than they really do. 
+If you have them, you'll be believable, and if not, you won't. You don't really need to do anything with them --- they'll show up in what you say and do, and especially when you're pressed hard and need to fall back on them. People are remarkably good at recognising them, and probing for a lack of them when they sense that someone pretends to have more substance than they really do. 
 
 **You do not need to prove your substance.** You are in this position, and that in itself tells people of it. If you lack substance, it's going to become apparent soon enough. It's not something you really need to worry about, or can do anything about if you don't have it.
 
-`Workbook - your substance <https://docs.google.com/document/d/18_OOHIZJ8SQASDjdrtgU9TzLSZDl0fa91eGfHQsODM4/edit#heading=h.xtc6idshxyjh>`_
+`Workbook -- your substance <https://docs.google.com/document/d/18_OOHIZJ8SQASDjdrtgU9TzLSZDl0fa91eGfHQsODM4/edit#heading=h.xtc6idshxyjh>`_
 
 
 Commitment
@@ -26,7 +26,7 @@ Your **commitment** on the other hand *is* something that needs to be said out l
 
 *Commitments are promises that hold you hostage to the possibility of failure.* They make you vulnerable, which is why a genuine commitment is a powerful thing. With a commitment, you offer people the means to judge you.
 
-Judgements and commitments need to be pronounced, in front of people. They must be made explicit - including the ones that seem obvious, or that you think are implied, or even that it feels slightly weird to say out loud - so make a point of making them, explicitly.
+Judgements and commitments need to be pronounced, in front of people. They must be made explicit --- including the ones that seem obvious, or that you think are implied, or even that it feels slightly weird to say out loud --- so make a point of making them, explicitly.
 
 ..  admonition:: Example from documentation practice
 
@@ -40,8 +40,8 @@ Judgements and commitments need to be pronounced, in front of people. They must 
 Keeping promises
 ----------------
 
-Of course, anyone can make fine-sounding promises - it doesn't mean they will be kept. Even worse is when someone manages to deceive themself, sincerely believing in a promise they won't maintain.
+Of course, anyone can make fine-sounding promises --- it doesn't mean they will be kept. Even worse is when someone manages to deceive themself, sincerely believing in a promise they won't maintain.
 
 Your substance will evaporate with the first commitment you fail to keep. At the same time, unless you make promises that put you at risk, you are not offering anything of value in the first place.
 
-`Workbook - commitment <https://docs.google.com/document/d/18_OOHIZJ8SQASDjdrtgU9TzLSZDl0fa91eGfHQsODM4/edit#heading=h.jqhui5ov599z>`_
+`Workbook -- commitment <https://docs.google.com/document/d/18_OOHIZJ8SQASDjdrtgU9TzLSZDl0fa91eGfHQsODM4/edit#heading=h.jqhui5ov599z>`_
