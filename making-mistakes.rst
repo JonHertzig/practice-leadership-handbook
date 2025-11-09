@@ -6,7 +6,7 @@ Making mistakes
 
 As a practice lead, your work is forwards, into new territory. **If you never make a mistake, you're not trying hard enough.** You're almost certainly not doing your job of redefining practice in the organisation, or doing anything new.
 
-This puts you in an odd position, because every *particular* mistake you make is something that you shouldn't have done and shouldn't have happened, and at the same time *development, progress and success depend upon mistake-making*.
+This puts you in an odd position, because every *particular* mistake you make is something that you shouldn't have done and shouldn't have happened, and at the same time *development, progress, and success depend upon mistake-making*.
 
 You will have to learn to live with that.
 
@@ -17,7 +17,7 @@ You will have to learn to live with that.
 
     A mistake is an error of judgement, being carried away by enthusiasm for an idea, misreading a situation, misjudging an effect. A mistake is when you act towards a certain outcome, but get it wrong and achieve something unwanted. 
 
-    Unfortunately the word *mistake* is rather overused. Dishonesty, abusing power, deliberately harming someone else, subverting due process - those aren't "mistakes", and you'll need more than this handbook can offer if that's where you find yourself.
+    Unfortunately the word *mistake* is rather overused. Dishonesty, abusing power, deliberately harming someone else, subverting due process --- those aren't "mistakes", and you'll need more than this handbook can offer if that's where you find yourself.
 
 
 Basic workflow
@@ -29,7 +29,7 @@ There is a tried and tested workflow for successful mistake-making:
 * Consider it thoughtfully and sincerely.
 * Act, and commit your mistake.
 * Realise it was a mistake.
-* Own it as whole-heartedly as you would own a success, and apologise honestly. 
+* Own it as wholeheartedly as you would own a success, and apologise honestly. 
 * Put right what it's possible to put right.
 * Learn from it.
 
@@ -45,13 +45,13 @@ On the other hand, just because nobody tells you that you have made a mistake do
 
 A wise person will recognise the signs that accompany their own mistake-making. For example, you might have a distinct feeling of urgent enthusiasm about doing something new, and be self-aware enough to know that's how you feel when you're just about to leap into something that turns out to be a mistake. If you're lucky, you'll recognise this feeling *before* you make your mistakes, not just afterwards.
 
-Nearly everybody realises when they have made a mistake - eventually. If you can't spot a mistake before you make it, at least try to do it as quickly as possible afterwards.
+Nearly everybody realises when they have made a mistake --- eventually. If you can't spot a mistake before you make it, at least try to do it as quickly as possible afterwards.
 
 
 Owning and apologising for your mistake
 =======================================
 
-Draw a circle around your mistake, so that everybody, including you, sees it as truly yours and yours alone. There is hardly anything more depressing than a partly-owned mistake.
+Draw a circle around your mistake, so that everybody, including you, sees it as truly yours and yours alone. There is hardly anything more depressing than a partly owned mistake.
 An apology for a mistake contains:
 
 * a statement: *I did x*.
@@ -68,12 +68,12 @@ So apologies **do not**:
 
 * contain explanations: *I was in a hurry and thought...*
 * describe intentions: *I meant to...*
-* contain justifications: *I thought it was OK because...*
+* contain justifications: *I thought it was OK because...*.
 
 Qualifying an apology or transferring responsibility are never attractive things to do. This makes it an offensive anti-apology:
 
 * qualifications: *I am sorry if...*
-* transferring responsibility to someone else: *I am sorry that you feel...*
+* transferring responsibility to someone else: *I am sorry that you feel...*.
 
 Getting over it
 ===============
@@ -87,7 +87,7 @@ However (when done correctly) mistakes are very forgivable things and people hav
 Mistakes of omission
 ====================
 
-The reality is that you are going to worry over mistakes you might make, may have made and actually did make, and all the while **the really significant mistakes will be the things you did not do**. 
+The reality is that you are going to worry over mistakes you might make, may have made, and actually did make; and all the while **the really significant mistakes will be the things you did not do**. 
 
 In most cases, you won't even have the signal of other people's objections. Quite possibly you will make the most serious errors of omission and never even realise that you did until much later.
 
