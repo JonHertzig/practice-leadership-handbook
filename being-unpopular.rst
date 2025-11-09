@@ -8,7 +8,7 @@ Being unpopular
 
 If you never do anything that other people don't like, you are probably not doing anything at all.
 
-In order to do your job properly, doing real work that makes a difference, sometimes you will have to go forward with something that other people object to. You will sometimes **choose directions, make decisions, propose actions, make judgements and come to conclusions** that have real negative consequences for other people, and you need to accept that.
+In order to do your job properly, doing real work that makes a difference, sometimes you will have to go forward with something that other people object to. You will sometimes **choose directions, make decisions, propose actions, make judgements, and come to conclusions** that have real negative consequences for other people, and you need to accept that.
 
 
 What's merely unpopular and what actually hurts
@@ -35,14 +35,14 @@ It helps to spend a little time understanding what we are dealing with. The firs
 
 They are not the same! *Someone suffering genuine pain is in far more need of our consideration than someone suffering things they merely dislike.*
 
-Unfortunately it's very hard for you - as an observer - to distinguish, in any useful objective or reliable way, what people don't like from what's going to hurt them.
+Unfortunately it's very hard for you --- as an observer --- to distinguish, in any useful objective or reliable way, what people don't like from what's going to hurt them.
 
 Even worse, when dealing with people's objections to our actions and proposals, there is a risk of mistaking things that would actually harm them for things they merely dislike.
 
 This means that to be safe, and even though these things are in fact quite different from each other, **you need to start from the assumption that things people don't like are in fact hurting them**. Only later can you afford to make the judgement that someone is suffering a mere dislike, and you'd better do it carefully.
 
 
-Wants, needs and truth
+Wants, needs, and truth
 ======================
 
 Believing that you, unlike the vast majority of other people, can distinguish between *what other people don't like* (their mere preferences) from *what will really hurt them* (their unmet needs) puts you into a position in which you're likely not even to notice their needs.
@@ -63,7 +63,7 @@ Believing that you, unlike the vast majority of other people, can distinguish be
 
 **This is a very risky position to put yourself in as a leader.** Almost nothing is guaranteed to cause more genuine unhappiness and damage than a sense of unrecognised need or concern. You can easily do more harm by failing to acknowledge a need, than by failing to meet it.
 
-**You can't meet everyone's needs.** You may have to make decisions that advantages some people and disbenefit others, in real and material ways. But recognising needs as needs (even when they are expressed badly) helps ensure that you do meet as many as possible, and makes it easier for people to accept when you don't meet them.
+**You can't meet everyone's needs.** You may have to make decisions that advantage some people and disbenefit others, in real and material ways. But recognising needs as needs (even when they are expressed badly) helps ensure that you do meet as many as possible, and makes it easier for people to accept when you don't meet them.
 
 
 Taking responsibility
@@ -71,7 +71,7 @@ Taking responsibility
 
 You can't be held responsible for not meeting all needs, because that's impossible anyway. 
 
-However, you are responsible for deciding whose needs you will meet and whose you will not - and it's important to take responsibility for that. Be forthright about what it is that you are doing. If the decision is yours, own it. If you have the slightest suspicion that what you are doing runs counter to someone's need, address that. Don't downgrade it to a mere want, or worse, turn it into a rejected argument.
+However, you are responsible for deciding whose needs you will meet and whose you will not --- and it's important to take responsibility for that. Be forthright about what it is that you are doing. If the decision is yours, own it. If you have the slightest suspicion that what you are doing runs counter to someone's need, address that. Don't downgrade it to a mere want, or worse, turn it into a rejected argument.
 
 .. list-table::
     :header-rows: 1
@@ -96,9 +96,9 @@ On feelings
 
 You might prefer to deal with matters of truth and right than with feelings. Even if you do, you will still find that what requires the greatest care to navigate are people's feelings.
 
-This can be hard to swallow, especially in the case where we are dealing with things like technical decisions or business judgements, where it seems that it *ought* to be argument, justification, rationality, evidence and truth that we turn to.
+This can be hard to swallow, especially in the case where we are dealing with things like technical decisions or business judgements, where it seems that it *ought* to be argument, justification, rationality, evidence, and truth that we turn to.
 
-However, all these things still belong to people. **Everything that people think, say and do is thoroughly coloured by and invested with their feelings.**
+However, all these things still belong to people. **Everything that people think, say, and do is thoroughly coloured by and invested with their feelings.**
 
 That's just how things are; as a realist, you need to recognise and learn to deal with it whether you like it or not. There is absolutely no point in trying to change it either. 
 
@@ -108,7 +108,7 @@ This doesn't mean that everyone's feelings are always right or that we should be
 Being unpopular without causing damage
 ======================================
 
-When you decide to say or do something that someone really doesn't like, possibly something that a lot of people don't like - even causes genuine pain, all you can do is try to do it with integrity and compassion.
+When you decide to say or do something that someone really doesn't like, possibly something that a lot of people don't like --- even something that causes genuine pain --- all you can do is try to do it with integrity and compassion.
 
 You must recognise when what you're saying or doing is going to be unpopular, and acknowledge it explicitly. Nobody will feel better about it if you keep quiet. At the same time you don't need to fear that being explicit about it will make it any more unpopular.
 
