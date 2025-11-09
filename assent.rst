@@ -4,11 +4,11 @@ Securing assent
 
 .. rubric:: From believable vision to wearable belief
 
-One of your challenges is to be able to present a compelling and believable vision to your colleagues - to take it to them. The next is to bring them over, so that they don't just see it, but feel they can share it too.
+One of your challenges is to be able to present a compelling and believable vision to your colleagues --- to take it to them. The next is to bring them over, so that they don't just see it, but feel they can share it too.
 
 **Your vision, however beautiful, will be quite useless if you're the only one who believes in it.**
 
-*Securing assent* is a quite different kind of communication from sharing a vision a vision. That is something like broadcasting. Securing assent by contrast is a two-way transaction - an exchange.
+*Securing assent* is a quite different kind of communication from sharing a vision. That is something like broadcasting. Securing assent by contrast is a two-way transaction --- an exchange.
 
 
 How belief works
@@ -28,14 +28,14 @@ In your case, it's even harder. Your ideas have implications for what other peop
 The believable vision
 =====================
 
-You are asking for people's assent. The vision you want them to believe in is a complex thing. It includes statements of fact, ways of looking at things, values, things that will need to be done, ways of doing things, commitments and hidden implications. That's quite a lot.
+You are asking for people's assent. The vision you want them to believe in is a complex thing. It includes statements of fact, ways of looking at things, values, things that will need to be done, ways of doing things, commitments, and hidden implications. That's quite a lot.
 
 Your first task is to present your vision believably, so that other people can believe in it too.
 
 Where careful and sincere thinkers go wrong
 -------------------------------------------
 
-If you are a careful and sincere thinker, that means you'll want to do your best to ensure that its presentation is accompanied by a maximum of support: rationale, evidence, study, experience. You will want it to be nailed-down, bullet-proof, water-tight. You'll do this partly out of desire to show respect for your audience, but also because you want it to be believed.
+If you are a careful and sincere thinker, that means you'll want to do your best to ensure that its presentation is accompanied by a maximum of support: rationale, evidence, study, experience. You will want it to be nailed-down, bulletproof, watertight. You'll do this partly out of desire to show respect for your audience, but also because you want it to be believed.
 
 You want to make it so that no reasonable person could refuse the force of your logic.
 
@@ -45,14 +45,14 @@ You want to make it so that no reasonable person could refuse the force of your 
 
     -- (Lewis Carroll, "What the Tortoise Said to Achilles", *Mind* Vol. 104 . 416 - `Wikipedia <https://en.wikipedia.org/wiki/What_the_Tortoise_Said_to_Achilles>`_)
 
-**Unfortunately, you will be wasting your time.** It's true that rationale, evidence, study and so on are important. A vision that can't fall back on them is unlikely to be robust. However, **they do not need to be part of its presentation in order for it to be believable**. In fact they have the opposite effect: they are heavy and tiring, off-putting things.
+**Unfortunately, you will be wasting your time.** It's true that rationale, evidence, study, and so on are important. A vision that can't fall back on them is unlikely to be robust. However, **they do not need to be part of its presentation in order for it to be believable**. In fact they have the opposite effect: they are heavy and tiring, off-putting things.
 
 ..  figure:: images/reason.jpg
     :figclass: floated
 
     They especially don't like being taken by the throat, even by logic.
 
-The harder you push rationale and evidence at people, the harder they will find them to accept. It has the effect of sparking a desire to find flaws and fallacies and think of counter-evidence. People find it difficult to get into nailed-down, water-tight things.
+The harder you push rationale and evidence at people, the harder they will find them to accept. It has the effect of sparking a desire to find flaws and fallacies and think of counter-evidence. People find it difficult to get into nailed-down, watertight things.
 
 
 Leave a way in
@@ -60,19 +60,19 @@ Leave a way in
 
 People are intelligent and imaginative, and another way of showing respect to the audience is to give their intelligence and imagination the opportunity to embrace the idea more freely.
 
-So: provide them with concrete exemplars and illustrations of your idea, and allow them the pleasure of making the abstractions and connections and intuitive leaps between them all. This has the additional benefit of making those connections theirs - and now they are carrying your vision.
+So: provide them with concrete exemplars and illustrations of your idea, and allow them the pleasure of making the abstractions and connections and intuitive leaps between them all. This has the additional benefit of making those connections theirs --- and now they are carrying your vision.
 
 
 Open doors
 ===================
 
-There are innumerable ways to give people the way in they need. What they have in common is that (unlike trying to persuade them with facts or reasons) is that they allow people to take the step that you want them to. Some successful ways of opening these doors are:
+There are innumerable ways to give people the way in they need. What they have in common (unlike trying to persuade them with facts or reasons) is that they allow people to take the step that you want them to. Some successful ways of opening these doors are:
 
-**Stories and narratives**, that can include examples of success, your own personal experience, stories about actual people, accounts of real-world problem situations or even commitments and promises (which can be a kind of story about the future). Human being respond to stories very strongly.
+**Stories and narratives** --- can include examples of success, your own personal experience, stories about actual people, accounts of real-world problem situations, or even commitments and promises (which can be a kind of story about the future). Human beings respond to stories very strongly.
 
-**Activities** - something that you get someone to do, or involve them in, in which your idea comes alive, and people act on the basis of your idea, so that they take it on for themselves in a safe space. This can be as simple as a game or a puzzle. It can be exceptionally effective, but it's also a difficult thing to do well.
+**Activities** --- something that you get someone to do, or involve them in, in which your idea comes alive, and people act on the basis of your idea, so that they take it on for themselves in a safe space. This can be as simple as a game or a puzzle. It can be exceptionally effective, but it's also a difficult thing to do well.
 
-**Experiences** - if you could encapsulate an idea in an experience that leaves an impression on someone, what would it be? Again, this can be very effective, but you need to be confident that you can pull it off successfully.
+**Experiences** --- if you could encapsulate an idea in an experience that leaves an impression on someone, what would it be? Again, this can be very effective, but you need to be confident that you can pull it off successfully.
 
 ..  admonition:: Example from documentation practice
 
@@ -82,7 +82,7 @@ There are innumerable ways to give people the way in they need. What they have i
 
     This could have been an attractive line of argument, but I didn't think it would be effective. At best, it would earn a kind of unenthusiastic acquiescence, with little motivating value.
 
-    I described how, in a previous role, we made some substantial changes to documentation in an attempt to reduce the burden on support. In fact, they didn't - what we noticed as a result was that the issues coming in to support were becoming *more difficult and challenging*.
+    I described how, in a previous role, we made some substantial changes to documentation in an attempt to reduce the burden on support. In fact, they didn't --- what we noticed as a result was that the issues coming in to support were becoming *more difficult and challenging*.
 
     The documentation improvements had successfully lifted users over the initial roadbumps. They were now using our product to do more adventurous, inventive things. Some of them were things we hadn't even expected them to do; they were giving *us* ideas about possibilities.
 
@@ -90,9 +90,9 @@ There are innumerable ways to give people the way in they need. What they have i
 
     In this case, the story allowed engineers to see and want the value for themselves, helping me get the assent that I needed, and not just an ineffectual, dutiful agreement.
 
-In short: even if you have a water-tight vision, *don't oblige people to concede that they should believe it*. Instead give them a chance to see that for themselves, so it becomes their own. Trust and allow your intelligent audience to join the dots for themselves.
+In short: even if you have a watertight vision, *don't oblige people to concede that they should believe it*. Instead give them a chance to see that for themselves, so it becomes their own. Trust and allow your intelligent audience to join the dots for themselves.
 
-`Workbook - open doors <https://docs.google.com/document/d/18_OOHIZJ8SQASDjdrtgU9TzLSZDl0fa91eGfHQsODM4/edit#heading=h.bosoc6wbso2g>`_
+`Workbook -- open doors <https://docs.google.com/document/d/18_OOHIZJ8SQASDjdrtgU9TzLSZDl0fa91eGfHQsODM4/edit#heading=h.bosoc6wbso2g>`_
 
 
 Wearable belief
@@ -105,7 +105,7 @@ As noted above, people believe ideas because the belief fits them comfortably.
 
     The language of wearing is not just a metaphor. In many languages, words that refer to clothing and to behaviour and attitudes and beliefs are the same.
 
-    *Costume* and *custom* share the same root. In Italian, *costumi* can refer to clothing or to morals. In English, a *habit* is also an item of clothing. In Romanian the verb *purtare* refers both to behaviour and wearing. It's not a coincidence. **Ideas are things we wear.**
+    *Costume* and *custom* share the same root. In Italian, *costumi* can refer to clothing or to morals. In English, a *habit* is also an item of clothing. In Romanian, the verb *purtare* refers both to behaviour and wearing. It's not a coincidence. **Ideas are things we wear.**
 
 You're asking people to wear your ideas, to live and work with them. You need your ideas to become the habits and customs of the company, that colleagues can put on.
 
@@ -117,14 +117,14 @@ Instead, you have to take the beliefs and attitudes that you want them to adopt,
 Paying attention to language
 ----------------------------
 
-This means **listening, and learning the language** in which they express their needs, problems and desires, and finding ways to frame your vision around them. It's your job to make it comfortable for them to try on.
+This means **listening, and learning the language** in which they express their needs, problems, and desires, and finding ways to frame your vision around them. It's your job to make it comfortable for them to try on.
 
-It must not mean **distorting your vision, diluting your ambitions or obscuring the truth**. You need to own all those with complete confidence. But, by listening actively to what people say and how they say it, and being sensitive to the needs and values they express, you can let them see how your vision can fit them too.
+It must not mean **distorting your vision, diluting your ambitions, or obscuring the truth**. You need to own all those with complete confidence. But, by listening actively to what people say and how they say it, and being sensitive to the needs and values they express, you can let them see how your vision can fit them too.
 
 ..  admonition:: Example from documentation practice
 
-    I used many early conversations at Canonical to learn what was on people minds about documentation. Often, the language they used didn't align well with what I had planned - less that it disagreed, than failed to engage. I had to work hard to understand the needs being expressed in that language, and find ways to use the same language to show the value I had to offer, before expecting others to adopt my language.
+    I used many early conversations at Canonical to learn what was on people's minds about documentation. Often, the language they used didn't align well with what I had planned --- less that it disagreed than failed to engage. I had to work hard to understand the needs being expressed in that language, and find ways to use the same language to show the value I had to offer, before expecting others to adopt my language.
 
     Later, whenever I heard *my* language being repeated back to me, I knew that this was a point where someone had tried on an idea I was offering. This was them telling me that they found it comfortable to wear.
 
-`Workbook - paying attention to language <https://docs.google.com/document/d/18_OOHIZJ8SQASDjdrtgU9TzLSZDl0fa91eGfHQsODM4/edit#heading=h.bosoc6wbso2g>`_
+`Workbook -- paying attention to language <https://docs.google.com/document/d/18_OOHIZJ8SQASDjdrtgU9TzLSZDl0fa91eGfHQsODM4/edit#heading=h.bosoc6wbso2g>`_
